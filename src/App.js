@@ -7,10 +7,12 @@ import Contact from "./components/Pages/Contact/contact"
 import Footer from "./components/Footer/footer";
 import StudentPortal from "./components/Pages/Career/studentportal";
 import EmploymentPortal from "./components/Pages/Career/empolymentportal";
+import { createRequire } from 'module';
 
+const require = createRequire(import.meta.url);
 
 function App() {
-  
+
   return (
     <div className="App">
       <Router>
