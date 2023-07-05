@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/jja-auditsite/static/css/main.ad124ae6.css",
-    "main.js": "/jja-auditsite/static/js/main.b5b442f5.js",
-    "static/js/787.e9738305.chunk.js": "/jja-auditsite/static/js/787.e9738305.chunk.js",
-    "static/media/page-header-default.jpg": "/jja-auditsite/static/media/page-header-default.897b079c0a3b89b803c6.jpg",
-    "static/media/project-5-img.jpg": "/jja-auditsite/static/media/project-5-img.bde65d3a602a107acee9.jpg",
-    "static/media/project-1-img.jpg": "/jja-auditsite/static/media/project-1-img.4326c3f11a393cf9cd02.jpg",
-    "static/media/jja-logo-1.png": "/jja-auditsite/static/media/jja-logo-1.78c2bea3376389be63b5.png",
-    "static/media/project-2-img.jpg": "/jja-auditsite/static/media/project-2-img.92ee7241d1130c551d53.jpg",
-    "static/media/project-6-img.jpg": "/jja-auditsite/static/media/project-6-img.7ad9e8369eaefa51dc10.jpg",
-    "static/media/project-3-img.jpg": "/jja-auditsite/static/media/project-3-img.51de4cfc9e50015d2ce1.jpg",
-    "static/media/project-4-img.jpg": "/jja-auditsite/static/media/project-4-img.5ca2811a33e17eea3f68.jpg",
-    "index.html": "/jja-auditsite/index.html",
-    "main.ad124ae6.css.map": "/jja-auditsite/static/css/main.ad124ae6.css.map",
-    "main.b5b442f5.js.map": "/jja-auditsite/static/js/main.b5b442f5.js.map",
-    "787.e9738305.chunk.js.map": "/jja-auditsite/static/js/787.e9738305.chunk.js.map"
+    "main.css": "/jja-co/static/css/main.ad124ae6.css",
+    "main.js": "/jja-co/static/js/main.b1f1f5ec.js",
+    "static/js/787.e9738305.chunk.js": "/jja-co/static/js/787.e9738305.chunk.js",
+    "static/media/page-header-default.jpg": "/jja-co/static/media/page-header-default.897b079c0a3b89b803c6.jpg",
+    "static/media/project-5-img.jpg": "/jja-co/static/media/project-5-img.bde65d3a602a107acee9.jpg",
+    "static/media/project-1-img.jpg": "/jja-co/static/media/project-1-img.4326c3f11a393cf9cd02.jpg",
+    "static/media/jja-logo-1.png": "/jja-co/static/media/jja-logo-1.78c2bea3376389be63b5.png",
+    "static/media/project-2-img.jpg": "/jja-co/static/media/project-2-img.92ee7241d1130c551d53.jpg",
+    "static/media/project-6-img.jpg": "/jja-co/static/media/project-6-img.7ad9e8369eaefa51dc10.jpg",
+    "static/media/project-3-img.jpg": "/jja-co/static/media/project-3-img.51de4cfc9e50015d2ce1.jpg",
+    "static/media/project-4-img.jpg": "/jja-co/static/media/project-4-img.5ca2811a33e17eea3f68.jpg",
+    "index.html": "/jja-co/index.html",
+    "main.ad124ae6.css.map": "/jja-co/static/css/main.ad124ae6.css.map",
+    "main.b1f1f5ec.js.map": "/jja-co/static/js/main.b1f1f5ec.js.map",
+    "787.e9738305.chunk.js.map": "/jja-co/static/js/787.e9738305.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad124ae6.css",
-    "static/js/main.b5b442f5.js"
+    "static/js/main.b1f1f5ec.js"
   ]
 }
