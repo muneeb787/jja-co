@@ -1,5 +1,4 @@
 {
-  "liveServer.settings.port": 5501,
   "task.allowAutomaticTasks": true,
   "debug.openDebug": "neverOpen",
   "terminal.integrated.inheritEnv": false,
